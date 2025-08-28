@@ -1,0 +1,30 @@
+/* Styling the body */
+body{
+    background-color: lightgrey;
+    font-size: 20px;
+    font-style: italic;
+
+}
+/* Styling the title */
+#Title{
+    color: darkblue;
+    text-align: center;
+    font-size: 28px;
+}
+
+/* Styling the button */
+button{
+    display: block;
+    margin: auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Change button color on hover */
+button:hover{
+    background-color: red;
+}
